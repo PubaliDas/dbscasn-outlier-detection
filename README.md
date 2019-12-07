@@ -1,7 +1,6 @@
-# pandas-from-zero-to-hero
-*Exploring Panda from scratch.*
+# dbscan outlier detection
+*Explore how to implement DBSCAN.*
 
-![sleepypanda](https://user-images.githubusercontent.com/54616526/64688688-84db3c80-d4aa-11e9-83ee-93580e1f1a99.jpg)
-
-
-_Pandas is an incredible library and popular package for data science that makes data analysis and manipulations easier for the Python programming language. Pandas is an open source, data structures and data analysis tool written by Wes McKinney._
+_DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise. It finds core samples of high density and expands clusters from them. 
+IT is an excellent technique to find clusters and as well as outliers in the data.
+We will use it to find the outliers in our dataset._
